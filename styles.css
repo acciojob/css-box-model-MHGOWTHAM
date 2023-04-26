@@ -1,6 +1,9 @@
-.main{
+
+div{
 	width:300px;
-	padding:50px;
+	background-color:rgb(173, 216, 230);
 	border: 15px solid blue;
+	padding:50px;
 	margin:20px;
+}
 }
